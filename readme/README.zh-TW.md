@@ -79,7 +79,7 @@
 <img src="https://raw.githubusercontent.com/LifeForge-app/lifeforge-docs-media/main/assets/lifeforge-logo.svg" alt="LifeForge Logo" width="240" height="80"/>
 </div>
 
-<p align="center">人生很難，所以LifeForge幫你託管人生，讓你自由登出</p>
+<H1 align="center">人生很難，所以LifeForge幫你託管人生，讓你自由登出</H1>
 
 ![LifeForge Interface Mockup](https://raw.githubusercontent.com/LifeForge-app/lifeforge-docs-media/main/assets/mockup-new.webp)
 
